@@ -33,7 +33,6 @@ int main()
        case 12:cout<<"The month is:December";
        break;
        default:cout<<"Enter valid number";
-       
    }
 
     return 0;
